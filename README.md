@@ -1,2 +1,2 @@
-# botchecksh-
+# botcheckshì
 automatic checking attendance bot
